@@ -29,8 +29,8 @@ Como usar:
    O servidor cria tasks.db automaticamente se não existir.
 
 3. Usar o cliente:
-   py client.py list
-   py client.py create "Tarefa exemplo" --d "..." 
-   py client.py get 1
-   py client.py update 1 --status completo
-   py client.py delete 1
+  - py client.py list
+  - py client.py create "Tarefa exemplo" --d "..." 
+  - py client.py get 1
+  - py client.py update 1 --status completo
+  - py client.py delete 1
